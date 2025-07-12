@@ -1,0 +1,6 @@
+John Mathew
+Education: B.Tech in Computer Science, NIT Trichy, 2017
+Experience: 5 years as Software Engineer at Infosys
+Skills: Java, Spring Boot, REST APIs, SQL
+Projects: Developed scalable banking applications reducing processing time by 35%.
+Certifications: Oracle Certified Java Programmer

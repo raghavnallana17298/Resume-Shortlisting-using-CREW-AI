@@ -1,0 +1,6 @@
+Divya Reddy
+Education: B.E in Computer Science, Anna University, 2018
+Experience: 4 years as Full Stack Developer at Zoho
+Skills: React, Node.js, MongoDB, AWS
+Projects: Built internal dashboards for sales analytics.
+Certifications: AWS Solutions Architect Associate

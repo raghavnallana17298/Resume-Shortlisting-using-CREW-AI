@@ -1,0 +1,6 @@
+Raj Kumar
+Education: B.Sc in Physics, Delhi University, 2019
+Experience: 1 year as Data Analyst at InsightTech
+Skills: Python, Pandas, Tableau, Excel
+Projects: Developed sales dashboards that helped optimize regional strategies.
+Certifications: None
