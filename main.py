@@ -11,7 +11,7 @@ for file_name in os.listdir(folder_path):
 # Join into single string
 resume_text = "\n\n".join(resumes)
 
-llm = GeminiLLM(api_key="AIzaSyBeBGhsexBcR_zFfQccWKNzHtMUjMaFENU")
+llm = GeminiLLM(api_key="Your Key")
 
 # ----------------------
 # Define agents
